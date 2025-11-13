@@ -707,7 +707,7 @@ public class SistemaVeterinaria {
         try {
             // Solicita os anos
             String anosStr = JOptionPane.showInputDialog(null,
-                    "Digite a idade em ANOS:\n(Digite 0 se o animal tiver menos de 1 ano)",
+                    "Digite a idade em anos:\n(Digite 0 se o animal tiver menos de 1 ano)",
                     titulo,
                     JOptionPane.QUESTION_MESSAGE);
 
@@ -729,7 +729,7 @@ public class SistemaVeterinaria {
 
             // Solicita os meses adicionais
             String mesesStr = JOptionPane.showInputDialog(null,
-                    "Digite os MESES adicionais (0 a 11):\n(Digite 0 se não houver meses adicionais)",
+                    "Digite os meses adicionais (0 a 11):\n(Digite 0 se não houver meses adicionais)",
                     titulo,
                     JOptionPane.QUESTION_MESSAGE);
 
