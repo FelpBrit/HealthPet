@@ -20,7 +20,7 @@ import java.util.ArrayList;
  *
  * Demonstra: Herança, Polimorfismo, ArrayList, JOptionPane, Métodos
  *
- * @author Seu Nome
+ * @author Felipe Brito
  * @version 1.0
  */
 public class SistemaVeterinaria {

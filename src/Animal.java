@@ -6,7 +6,7 @@
  * Pode ser instanciada diretamente para cadastrar animais que não sejam cachorros ou gatos
  * (como pássaros, coelhos, hamsters, répteis, etc.).
  *
- * @author Seu Nome
+ * @author Felipe Brito
  * @version 1.0
  */
 public class Animal {

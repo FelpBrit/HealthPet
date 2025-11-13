@@ -7,7 +7,7 @@
  *
  * Demonstra o conceito de HERANÇA (extends) e POLIMORFISMO em Java.
  *
- * @author Seu Nome
+ * @author Felipe Brito
  * @version 1.0
  */
 public class Cachorro extends Animal {
